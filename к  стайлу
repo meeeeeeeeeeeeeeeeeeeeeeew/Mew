@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title> Личный сайт </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1> Lorem. </h1>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil veritatis molestiae nisi sint, assumenda et itaque officiis esse laborum ullam omnis vitae odit blanditiis ducimus?</p>
+    </header>
+
+    <main>
+        <section>
+            <h2> Lorem. </h2>
+            <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore animi neque voluptatum in hic unde, dignissimos reprehenderit natus illo tempore ullam dolore eligendi doloribus expedita aspernatur sapiente est consequuntur eos laboriosam labore quas distinctio accusantium quibusdam nulla! Qui, dolore soluta.</p>
+            <p> <b>Lorem ipsum dolor sit.</b> — Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae alias commodi, similique perspiciatis magnam optio officiis cumque tenetur hic? </p>
+        </section>
+
+        <section>
+            <h2> Lorem ipsum dolor sit. </h2>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum eos suscipit rerum veniam nobis. Ad, corrupti. Incidunt voluptatibus quibusdam, quod deleniti explicabo, optio ex omnis reprehenderit quis id soluta perferendis!</p>
+        </section>
+
+        <section>           
+            <h2> Lorem. </h2>
+            <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, ut!</p>
+
+            <h3> Lorem, ipsum. </h3>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis quaerat, dolor fuga illum officia minima pariatur assumenda velit, quo cupiditate ducimus aliquam atque impedit, vitae explicabo odio repellat nostrum perferendis. <p>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur id nisi voluptas sunt reiciendis officiis blanditiis, debitis sapiente dicta alias quae laudantium temporibus asperiores veritatis magni mollitia, quam rem. Temporibus illo magnam optio placeat praesentium facilis minima nihil pariatur quaerat: </p>
+            <ul>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, in?</li>
+                <li>Lorem ipsum dolor sit amet consectetur.</li>
+                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet blanditiis ea quam adipisci? Eos, nihil.</li>
+            </ul>
+            <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem, doloremque iure, ducimus perspiciatis error, ipsa quisquam earum accusamus ea eaque ullam saepe! Magni:</p>
+            <ul>
+                <li><a href="https://www.terraria.org/">Terraria</a></li>
+                <li><a href="https://www.rockstargames.com/gta-v">Grand Theft Auto 5</a></li>
+                <li><a href="https://phasmophobia.su/">Phasmophobia</a></li>
+            </ul>
+            <h3> Lorem, ipsum dolor. </h3>
+            <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis quisquam, voluptatum cum non eveniet labore odio amet sed velit modi voluptates debitis nulla magnam consequuntur inventore quis esse! Facilis, aut!</p>
+        </section>
+
+        <section>
+            <h2> Lorem, ipsum. </h2>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod ex totam exercitationem corrupti qui placeat.</p>
+        </section>
+
+        <section>
+            <h2>Отзыв</h2>
+
+            <form action="">
+                <table border="4" cellspacing="0" cellpadding="2" bordercoloriight="#FF8080" bordercolordark="#FFOOOO"> 
+                    
+                    <colgroup bgcolor="#d3d3f1" style="color:white"> 
+                    </colgroup><tbody><tr> 
+                    <td>Имя</td> 
+                    <td><input type="Text" size="40" name="l" maxlength="12" id="a"></td> 
+                    </tr>
+                    
+                    <tr>                           
+                    <td>Фамилия</td> 
+                    <td><input type="Text" size="40" name="2" id="a"></td> 
+                    </tr>
+
+                    <tr> 
+                        <td> Отзыв о прочитанном</td> 
+                        <td><textarea rows="4" cols="40" name="6" id="a">тут  ввеститекст</textarea></td> 
+                    </tr>
+                        
+                    
+                    <tr>
+                    <td><input type="Reset" value="Очистить"></td> 
+                    <td><input type="Submit" value="Найти путёвки"> </td> 
+                    </tr> 
+                </tbody></table>                        
+            </form>
+        </section>
+
+        
+    </main>
+
+</body>
+</html>
